@@ -172,6 +172,10 @@ Image1 :
 ------------------------------------------------
 
 ## 2.10 Footnotes(각주)
+- '[^]'표시를 사용
+
+- 각주에 대한 설명은 마지막에 나타남
+
 Here is a simple footnote[^1].
 
 A footnote can also have multiple lines[^2].
