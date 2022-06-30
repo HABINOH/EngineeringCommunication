@@ -135,7 +135,7 @@ export default MyComponent;
 	[Google](https://google.com "Let's Go Google")
 
 * 자동 링크
-  - name : URL or <URL>
+  - name : URL or '<URL>'
 
 	Google Homepage : https://google.com
 	
