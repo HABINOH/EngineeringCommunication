@@ -163,6 +163,7 @@ export default MyComponent;
 ## 2.9 Images
 * 영상을 화면에 출력, '!', '[]', '()'를 이용
 	- '![text](image url "title")'
+
 Robot : 
 ![Robot](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
