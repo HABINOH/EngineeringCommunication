@@ -59,4 +59,49 @@
 	세계에서 7번째 우주 강국
 누리호 성공 축하!!!! 
 
+------------------------------------------------
+## 2.5 Code
+
+<pre>
+<code>
+class Car {
+	private String modelName;
+	private int modelYear;
+	private String color;
+	private int maxSpeed;
+	private int currentSpeed;
+	
+	Car(String modelName, int modelYear, String color, int maxSpeed) {
+		this.modelName = modelName;
+		this.modelYear = modelYear;
+		this.color = color;
+		this.maxSpeed = maxSpeed;
+		this.currentSpeed = 0;
+	}
+}
+</code>
+</pre>
+------------------------------------------------
+```
+import React from 'react';
+function MyComponent(props) {
+	if (props.isBar) {
+		return <div>Bar</div>;
+	}
+	return <div>Foo</div>;
+}
+export default MyComponent;
+```
+------------------------------------------------
+``` js
+import React from 'react';
+function MyComponent(props) {
+	if (props.isBar) {
+		return <div>Bar</div>;
+	}
+	return <div>Foo</div>;
+}
+export default MyComponent;
+```
+------------------------------------------------
 
