@@ -12,11 +12,6 @@
 
 
 
-
-
-
-
-
 ------------------------------------------------
 ## 2.1 Header
 [Habin Github](https://github.com/HABINOH)
@@ -45,8 +40,8 @@
 
 순서가 없는 목록 (혼합 사용)
 * 1st
-	- 2nd
-		+ 3rd
-			* 4th
+  * Red -1
+    * BlueBlueBlueBlueBlueBlue
+    * GreenGreenGreenGreenGreen
 
 
