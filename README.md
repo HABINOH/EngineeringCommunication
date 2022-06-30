@@ -61,7 +61,7 @@
 
 ------------------------------------------------
 ## 2.5 Code
-
+* HTML 형식
 <pre>
 <code>
 class Car {
@@ -82,6 +82,7 @@ class Car {
 </code>
 </pre>
 ------------------------------------------------
+* 역따옴표 형식
 ```
 import React from 'react';
 function MyComponent(props) {
@@ -93,6 +94,7 @@ function MyComponent(props) {
 export default MyComponent;
 ```
 ------------------------------------------------
+* 역따옴표에 언어 표시 형식 (문법 강조)
 ``` js
 import React from 'react';
 function MyComponent(props) {
