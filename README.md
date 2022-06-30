@@ -124,12 +124,14 @@ export default MyComponent;
 * 참조 링크
   - ( [link keyword][id] )
   - ( [id] : URL "Optional Title here" )
-Link:[google][googlelink]
+
+	Link:[google][googlelink]
 [googlelink]: https://google.com "Let's Go Google"
 
 * 외부 링크
   - ( [Title](link) )
-[Google](https://google.com "Let's Go Google")
+
+	[Google](https://google.com "Let's Go Google")
 
 
 
